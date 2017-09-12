@@ -1,6 +1,6 @@
 ## Welcome to GolfTrac
 
-Making swing refinement a cinch for golfers of all skill levels. 
+
 
 ### Markdown
 
